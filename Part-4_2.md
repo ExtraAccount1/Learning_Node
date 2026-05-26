@@ -36,7 +36,9 @@ Output
 
 
 Output
-{ total: 70 }
+{ name: "Robert", total: 70 }
+{ name: "Oliver", total: 60 }
+{ name: "Henry", total: 80 }
 ```
 
 3.$multiply – Multiplication
